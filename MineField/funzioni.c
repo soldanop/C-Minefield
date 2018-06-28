@@ -54,7 +54,6 @@ int credit(){	/*Funzione che stampa la scelta 4*/
 	printf("\n\n\n\n");
 	system("reset");
 	printf(specialcyan"\t\t\t\t\tSviluppato da:\n\n\n"reset);
-	printf(specialred"\t\t\t\t  M A T T E O  P A S C O N\n");
 	printf("\t\t\t       P A S Q U A L E  S O L D A N O\n"reset);
 	return 0;
 }
