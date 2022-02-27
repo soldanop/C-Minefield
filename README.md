@@ -1,4 +1,6 @@
-# Minefield game for the linux terminal  
+# Minefield game for linux terminal
+Project Open Source
+To compile project and run from terminal execute the command: make run
 
-1-> Compile the project on terminal with "make progetto"
-2-> Start the file "./progetto"
+Credits:
+Pask

@@ -1,8 +1,0 @@
-Minefield
-
-1-> Compilare il progetto scrivendo da terminale "make progetto"
-2-> Avviarlo l'eseguibile da terminale scrivendo "./progetto"
-3-> Attendere 4 secondi per il caricamento della schermata del menu
-4-> Per cancellare i file oggetto scrivere da terminale "make clear"
-
-

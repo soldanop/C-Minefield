@@ -32,3 +32,5 @@ pask LOSE
 ciao LOSE
 pp LOSE
 Pask LOSE
+pask LOSE
+pask LOSE
