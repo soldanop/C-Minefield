@@ -1,6 +1,8 @@
 # Minefield game for linux terminal
-Project Open Source
-To compile project and run from terminal execute the command: make run
+Project Univeristy Open Source based in C language
 
-Credits:
-Pask
+Get Started:
+
+> open terminal
+> make run:  to compile project and run
+
